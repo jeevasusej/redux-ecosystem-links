@@ -637,7 +637,10 @@
   
 
 #### Dynamic Reducer Injection
-
+- **redux-react-dynamic-store**  
+  https://github.com/fostyfost/redux-eggs  
+  Manipulate your store like an egg tray. Add some eggs to your Redux store.
+  
 - **redux-react-dynamic-store**  
   https://github.com/kravchenkodev/redux-react-dynamic-store  
   Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
